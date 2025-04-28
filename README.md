@@ -43,6 +43,6 @@ We are committed to transparency regarding our policies.
 
 ## Questions?
 
-If you have any questions about these policies or how they apply to a specific app, please do not hesitate to contact me via email:**fs.kvr06@gmail.com**
+If you have any questions about these policies or how they apply to a specific app, please do not hesitate to contact me via email: **fs.kvr06@gmail.com**
 
 I aim to respond to all policy-related inquiries promptly.
