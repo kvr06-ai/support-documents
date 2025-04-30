@@ -10,27 +10,28 @@ The primary goal of this repository is to provide transparent, reliable, and eas
 2.  **Terms of Service / EULA:** (Optional) Outlining the terms users agree to when using the apps.
 3.  **Support Information:** (Optional) Centralizing links or information related to customer support.
 
-I use GitHub for hosting these documents because it allows:
+I use GitHub Pages for hosting these documents because it allows:
 
 * **Stable Public Links:** Providing the necessary URLs required by the Apple App Store.
 * **Version Control:** All changes to these documents are tracked using Git. This means you can view the history of updates for full transparency.
 * **Centralized Management:** Keeping all policies organized in one place for easier maintenance and user access.
+* **Free Hosting:** GitHub Pages provides free hosting for these static documents.
 
 ## Repository Structure
 
 Documents are organized into folders, with each folder corresponding to a specific application. Inside each app's folder, you will typically find:
 
 * `privacy.md`: The Privacy Policy specific to that application.
+* `support.md`: Support information and contact details for that application.
 * `terms.md`: (If applicable) The Terms of Service or End User License Agreement for that application.
 
+## How to Access These Documents
 
-## How to Find Your Policy
+To find the policy relevant to a specific application:
 
-To find the policy relevant to a specific application you use:
-
-1.  Identify the name of the app (e.g., `[App Name 1]`).
-2.  Navigate into the folder with that exact name within this repository.
-3.  Click on the `privacy.md` file (or `terms.md`, etc.) to view its content.
+1. For privacy policies: `https://kvr06-ai.github.io/support-documents/[app-name]/privacy`
+2. For support information: `https://kvr06-ai.github.io/support-documents/[app-name]/support`
+3. For terms of service (if available): `https://kvr06-ai.github.io/support-documents/[app-name]/terms`
 
 Direct links to the relevant policies are also provided within each application's settings/about screen and on its respective App Store product page.
 

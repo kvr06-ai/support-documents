@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+title: Support Documents for Apps by Kaushik Rajan
+description: Privacy policies, support information, and other legal documents for iOS applications
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - unit-converter-app/privacy.md
+  - unit-converter-app/support.md 

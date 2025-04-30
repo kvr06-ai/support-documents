@@ -1,6 +1,6 @@
 # Privacy Policy for Unit Converter App
 
-*Last updated: April 28, 2025*
+*Last updated: April 30, 2025*
 
 ## Introduction
 
